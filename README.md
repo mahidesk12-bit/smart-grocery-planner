@@ -30,14 +30,21 @@ The application uses Google's Gemini AI to generate personalized grocery plans.
 - GitHub
 
 ## Screenshots
-Add at least 3 screenshots here:
 
-1. home.png
-2. input.png
-3. ai generating.png
-4. output.png
-5. pdf generate.png
+### Home Page
+![Home Page](home.png)
 
+### User Input
+![User Input](input.png)
+
+### AI Generating Plan
+![AI Generating Plan](ai generating.png)
+
+### Generated Grocery Plan
+![Generated Grocery Plan](output.png)
+
+### PDF Export
+![PDF Export](pdf generate.png)
 ## How to Run the Project
 
 1. Clone the repository.
