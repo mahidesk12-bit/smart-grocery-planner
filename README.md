@@ -1,7 +1,7 @@
-# Smart Grocery AI
+# Smart Grocery AI Planner
 
 ## Overview
-Smart Grocery AI is an AI-powered web application that helps users create a smart grocery shopping plan based on their budget, family size and food preferences. It reduces shopping time and helps users make cost-effective grocery decisions.
+Smart Grocery AI Planner is an AI-powered web application that helps users create a smart grocery shopping plan based on their budget, family size and food preferences. It reduces shopping time and helps users make cost-effective grocery decisions.
 
 ## Problem It Solves
 Many people struggle to plan grocery shopping within their budget while maintaining a balanced diet. Smart Grocery AI provides personalized grocery recommendations using AI, making shopping easier and more affordable.
@@ -38,13 +38,13 @@ The application uses Google's Gemini AI to generate personalized grocery plans.
 ![User Input](input.png)
 
 ### AI Generating Plan
-![AI Generating Plan](ai generating.png)
+![AI Generating Plan](ai-generating.png)
 
 ### Generated Grocery Plan
 ![Generated Grocery Plan](output.png)
 
 ### PDF Export
-![PDF Export](pdf generate.png)
+![PDF Export](pdf-generate.png)
 ## How to Run the Project
 
 1. Clone the repository.
@@ -61,5 +61,5 @@ The application uses Google's Gemini AI to generate personalized grocery plans.
 
 ## Author
 Maheen Sammad, 
-The Women University Multan
+The Women University Multan, 
 Developed as an individual final project.
