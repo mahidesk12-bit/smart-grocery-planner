@@ -1,29 +1,54 @@
-# Welcome to your Lovable project
+# Smart Grocery AI
 
-This project was built with [Lovable](https://lovable.dev).
+## Overview
+Smart Grocery AI is an AI-powered web application that helps users create a smart grocery shopping plan based on their budget, family size and food preferences. It reduces shopping time and helps users make cost-effective grocery decisions.
 
-## Build with Lovable
+## Problem It Solves
+Many people struggle to plan grocery shopping within their budget while maintaining a balanced diet. Smart Grocery AI provides personalized grocery recommendations using AI, making shopping easier and more affordable.
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+## Live Demo
+**Live URL:** https://frugal-foods-ai.lovable.app
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+## Features
+- AI-generated grocery shopping plans
+- Budget-based recommendations
+- Personalized suggestions based on family size
+- Food preference customization
+- Easy-to-use and responsive interface
 
-## Development
+## AI Feature
+The application uses Google's Gemini AI to generate personalized grocery plans.
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+### System Prompt
+"You are an AI grocery shopping assistant. Create a practical grocery shopping plan based on the user's budget, family size, and food preferences. Recommend affordable, healthy items and provide money-saving shopping tips."
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
-
-## Built with
-
-- TanStack Start
-- TypeScript
+## Technologies Used
+- Lovable
 - React
-- Tailwind CSS
+- TypeScript
+- Google Gemini Flash
+- GitHub
+
+## Screenshots
+Add at least 3 screenshots here:
+
+1. Home Page
+2. User Input Form
+3. AI Generated Grocery Plan
+
+## How to Run the Project
+
+1. Clone the repository.
+2. Install dependencies.
+3. Configure the Gemini API key.
+4. Run the development server.
+5. Open the application in your browser.
+
+## Future Improvements
+- Shopping list export
+- Price comparison
+- Nearby grocery store recommendations
+- User accounts and saved shopping plans
+
+## Author
+Developed as an individual final project.
